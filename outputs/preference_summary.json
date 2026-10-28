@@ -1,0 +1,36 @@
+{
+  "rows": 51717,
+  "columns": [
+    "url",
+    "address",
+    "name",
+    "online_order",
+    "book_table",
+    "rate",
+    "votes",
+    "phone",
+    "location",
+    "rest_type",
+    "dish_liked",
+    "cuisines",
+    "approx_cost(for two people)",
+    "reviews_list",
+    "menu_item",
+    "listed_in(type)",
+    "listed_in(city)"
+  ],
+  "top_cuisines": {
+    "North Indian": 21085,
+    "Chinese": 15547,
+    "South Indian": 8644,
+    "Fast Food": 8096,
+    "Biryani": 6492,
+    "Continental": 5765,
+    "Desserts": 5633,
+    "Cafe": 5303,
+    "Beverages": 4747,
+    "Italian": 3389
+  },
+  "rating_column": "rate",
+  "rating_non_null": 43942
+}
